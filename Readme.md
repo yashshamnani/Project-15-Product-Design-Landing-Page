@@ -3,7 +3,7 @@
 ## Project Name: Product Design Landing Page
 ### By Yash Shamnani
 
-##  Live Link -: [Product](https://yashshamnani-creativity-home-page.netlify.app/)
+##  Live Link -: [Product](https://yashshamnani-product-design-homepage.netlify.app/)
 ---
 
 ##  Technologies used
@@ -21,7 +21,7 @@
 -  Learned to integrate font awesome icons
 - Learned about Media Queries
 
----
+ 
 
 ## Time taken to Finish this project
 
